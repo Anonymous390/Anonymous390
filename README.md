@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous390&title=Joined2020,Repositories,Commit,Stars,PullRequest" alt="404" /></a> </p>
 
-- 🔭 I’m currently working on a project in a group [repo]("https://github.com/blankRiot96/paralax-code") with my friends.
+- 🔭 I’m currently working on a project in a group **[repo](https://github.com/blankRiot96/paralax-code)** with my friends.
 - 🌱 I’m currently learning Python, C++, WebDev, Basic Pentesting.
 - 💬 Ask me about anything I'm happy to help.
 - 📫 How to reach me: **404errornotfound@gmail.com**.
