@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, Im 404ErrorNotFound 👋</h1>
+<p><img align="left" src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="404" /></p>
 
 <!--
 **Anonymous390/Anonymous390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
