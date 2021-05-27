@@ -1,4 +1,4 @@
-### Hi there, Im 404ErrorNotFound 👋
+<h1 align="center">Hi there, Im 404ErrorNotFound 👋</h1>
 
 <!--
 **Anonymous390/Anonymous390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous390" alt="404" /></a> </p>
 
 - 🔭 I’m currently working on a project in a group **[repo]("https://github.com/blankRiot96/paralax-code")** with my friends.
 - 🌱 I’m currently learning Python, C++, WebDev, Basic Pentesting.
