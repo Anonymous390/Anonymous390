@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a project in a group **[repo](https://github.com/blankRiot96/paralax-code)** with my friends.
 - 🌱 I’m currently learning Python, C++, WebDev, Basic Pentesting.
 - 💬 Ask me about anything I'm happy to help.
-- 📫 How to reach me: **404errornotfound@gmail.com**.
+- 📫 How to reach me: **4oh4errornotfound@gmail.com**.
 - ⚡ Fun fact: The first language I started with was C++.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anonymous390&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="404" /></p>
