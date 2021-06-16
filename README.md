@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anonymous390&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" alt="404" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonymous390&" alt="404" /></p>
-<iframe src="https://discord.com/widget?id=835851448784257044&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
