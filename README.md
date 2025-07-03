@@ -21,12 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats  
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anonymous390&layout=compact&theme=radical)
-
----
-
 ## 🔥 Contribution Streak  
 
 <p align="center">
